@@ -38,8 +38,7 @@
 ---
 
 ### 📫 How to Reach Me
-- Email: shrishtibanshiar@gmail.com
-- LinkedIn: your-link  
+- Email: shrishtibanshiar105@gmail.com
 
 ---
 
