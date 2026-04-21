@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hi there 👋 I'm Shrishti
 
-<!--
-**Shrishti1701/Shrishti1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student (IITM BS Program)  
+📊 Aspiring Data Analyst | Turning data into insights  
+💡 Skilled in data cleaning, visualization & analysis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Data Analysis Projects I Have Worked On
+- Personal Finance Tracker (Expense Analysis using Python)  
+- Iris Dataset Analysis & Visualization  
+- House Price Data Analysis & Prediction  
+
+---
+
+### 📊 Proficiency
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Basic Statistical Analysis  
+
+---
+
+### 🛠️ Tools & Technologies
+- Python 🐍  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Excel  
+- SQL  
+
+---
+
+### 📈 What I Do
+- Clean messy data and extract insights  
+- Create meaningful visualizations  
+- Work with real-world datasets  
+
+---
+
+### 📫 How to Reach Me
+- Email: your-email@gmail.com  
+- LinkedIn: your-link  
+
+---
+
+### ⚡ Fun Fact
+- I love finding patterns in data 📊  
+
+---
+
+⭐ *“Without data, you're just another person with an opinion.”*
