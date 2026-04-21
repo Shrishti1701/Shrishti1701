@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Shrishti
 
-🎓 Data Science Student (IITM BS Program)  
+🎓 Data Science Student (IITM BS in Data Science ML & AI)  
 📊 Aspiring Data Analyst | Turning data into insights  
 💡 Skilled in data cleaning, visualization & analysis  
 
