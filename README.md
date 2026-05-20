@@ -115,18 +115,6 @@ Control your Google Drive from WhatsApp — LIST, DELETE, MOVE, SUMMARY commands
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shrishti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrishti1701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishti1701&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shrishti1701&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🏆 Achievements
